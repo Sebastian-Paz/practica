@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+agregando archivos antes del merge
+=======
+agregando primera modificacion en la rama dev_branch
+>>>>>>> Dev_branch
+agregado
+
+agreando ahora cambios en rama Qa_branch
