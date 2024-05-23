@@ -14,4 +14,12 @@ agregando otro cambio en la rama Qa_branch
 >>>>>>> Qa_branch
 agregado
 
+<<<<<<< HEAD
 agregamos un ultimo cambio en la rama principal
+=======
+
+agregamos modificaciones en la ultima rama 
+
+agregamos segundo commit ultima rama
+>>>>>>> Prod_branch
+agregado
